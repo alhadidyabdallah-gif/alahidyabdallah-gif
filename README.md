@@ -28,22 +28,22 @@ I'm a passionate Data Analyst with hands-on experience building **end-to-end ana
 
 ## 🚀 Featured Projects
 
-### 1. 🏗️ [Construction Sales Analytics](https://github.com/alahidyabdallah-gif/construction-sales-analytics)
+### 1. 🏗️ [[Construction Sales Analytics](https://github.com/alahidyabdallah-gif/construction-sales-analytics)](https://github.com/alhadidyabdallah-gif/construction-sales-analytics)
 End-to-end analysis of **20,000+ sales records** for a construction company.
 - **Tools:** MySQL, SQL, Power BI
 - **Insights:** 1.23B SAR revenue, 30% from top 5 clients, ABC analysis
 
-### 2. 👥 [HR Analytics Dashboard](https://github.com/alahidyabdallah-gif/hr-analytics-dashboard)
+### 2. 👥 [[HR Analytics Dashboard](https://github.com/alahidyabdallah-gif/hr-analytics-dashboard)](https://github.com/alhadidyabdallah-gif/hr-analytics-dashboard)
 Analysis of **500 employees** across 10 departments.
 - **Tools:** SQL, Power BI
 - **Insights:** Turnover rate, Performance analysis, Salary benchmarks
 
-### 3. 📦 [Supply Chain Analytics](https://github.com/alahidyabdallah-gif/supply-chain-analytics)
+### 3. 📦 [[Supply Chain Analytics](https://github.com/alahidyabdallah-gif/supply-chain-analytics)](https://github.com/alhadidyabdallah-gif/supply-chain-analytics)
 Analysis of **200,000+ inventory, shipment, and sales records**.
 - **Tools:** SQL, Power BI
 - **Insights:** Supplier performance, Inventory turnover, On-time delivery
 
-### 4. 📱 [Telecom Churn Analytics](https://github.com/alahidyabdallah-gif/telecom-churn-analytics)
+### 4. 📱 [[Telecom Churn Analytics](https://github.com/alahidyabdallah-gif/telecom-churn-analytics)](https://github.com/alhadidyabdallah-gif/telecom-churn-analytics)
 Churn analysis for **5,000 customers** with 200K usage records.
 - **Tools:** SQL, Power BI
 - **Insights:** 30% churn rate, cohort analysis, ARPU optimization
